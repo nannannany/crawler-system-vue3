@@ -11,11 +11,6 @@
 ## 📦 使用说明
 
 ### 1. 克隆项目
-```bash
-
-git clone https://gitea.mgcsat.com/MgSziit/infosystem-vue3.git
-```
-
 ### 2. 安装依赖
 ```bash
 
